@@ -8,5 +8,6 @@
 </head>
 <body>
 <h2>Spring MVC demo - Home page</h2>
+<a href="show">Show form</a>
 </body>
 </html>
